@@ -14,7 +14,7 @@ Bearing this in mind, I concentrated on giving semantic meaning to the HTML and 
 
 The main issue with the HTML was due to the oversue of generic div elements without proper labelling to correspond with the structure or sections of the page. 
 
-Minor issues with the h1 tag and internal linking was also identified and remedied. 
+Minor issues with the h1 tag, absence of alt attributes for images and internal linking were also identified and remedied. 
 
 The CSS stylesheet suffered from bloated code due to unecesssary duplication so I consolidated the selectors which had identical properties. I also organized them with appropriate commentary to follow the semantic structure of the HTML.
 
